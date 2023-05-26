@@ -1,0 +1,1 @@
+1. เป็นมาตรฐานในการสร้าง Token ในระบบ Blockchain ของ Ethereum โดยเป็นการกำหนด function พื้นฐานที่จำเป็นต้องมีใน smart contract ของแต่ละ Token เพื่อให้ developer สามารถเขียนคำสั่งเรียกใช้งาน function พื้นฐานได้ function ที่กำหนดไว้ก็เช่น transfer(), getbalance(), etc.
